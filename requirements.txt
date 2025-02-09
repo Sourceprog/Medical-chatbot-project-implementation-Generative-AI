@@ -6,5 +6,3 @@ pypdf
 python-dotenv
 pinecone-client
 langchain-pinecone
-
-langchain_experimental
